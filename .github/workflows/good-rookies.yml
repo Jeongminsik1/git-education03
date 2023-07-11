@@ -1,5 +1,5 @@
-name: good-Rookies
-run-name: ${{ github.actor }} good-Rookies
+name: good-rookies
+run-name: ${{ github.actor }} good-rookies
 on: [push]
 jobs:
   check-bats-version:
